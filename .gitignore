@@ -1,0 +1,4 @@
+build
+.idea
+.pyc
+__pycache__
